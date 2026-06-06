@@ -1,0 +1,6 @@
+{
+  "name": "ISIC Industry Schema Architect",
+  "description": "An industry standard tool to navigate the ISIC Rev 5 hierarchy and generate developer-focused database schemas and technical specifications using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
